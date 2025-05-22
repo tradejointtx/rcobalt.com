@@ -1,7 +1,0 @@
-User-agent: Applebot
-Allow: /
-
-User-agent: *
-Allow: /
-
-Sitemap: https://www.rcobalt.com/sitemap.xml
